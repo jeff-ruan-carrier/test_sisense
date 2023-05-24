@@ -1,0 +1,57 @@
+{
+    "allowChangeSubscription": false,
+    "dataExploration": false,
+    "datasource": {
+        "fullname": "live:mock_refresh_data",
+        "id": "live:mock_refresh_data",
+        "live": true,
+        "title": "mock_refresh_data"
+    },
+    "desc": "",
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "6467d3cb4a23670033c424a6",
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "palette": {
+            "colors": [
+                "#00cee6",
+                "#9b9bd7",
+                "#6EDA55",
+                "#fc7570",
+                "#fbb755",
+                "#218A8C"
+            ],
+            "name": "Vivid"
+        }
+    },
+    "subscription": {
+        "active": false,
+        "context": {
+            "dashboardid": "6467d3cb4a23670033c424a6"
+        },
+        "emailSettings": {
+            "isEmail": true,
+            "isPdf": false
+        },
+        "executionPerDay": 1,
+        "isDataChange": false,
+        "reportType": {
+            "inline": true
+        },
+        "schedule": "0 0 0 * * *",
+        "startAt": "2023-05-23",
+        "subscribe": false,
+        "timezone": 300,
+        "type": "daily",
+        "tzName": "America/Chicago"
+    },
+    "title": "epoch_filter_test",
+    "widgets": [
+        "./widgets/646d03da4a23670033c426cc/widget.json"
+    ]
+}

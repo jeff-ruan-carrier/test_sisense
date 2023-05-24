@@ -1,0 +1,36 @@
+{
+    "layout": {
+        "columns": [
+            {
+                "cells": [
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 384,
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 96,
+                                        "minWidth": 128,
+                                        "widgetid": "646d03da4a23670033c426cc"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "index": 0,
+                "pxlWidth": 0,
+                "width": 100
+            }
+        ],
+        "container": {
+        },
+        "instanceid": "40697-7890-DC",
+        "type": "columnar"
+    },
+    "previewLayout": [
+    ]
+}
