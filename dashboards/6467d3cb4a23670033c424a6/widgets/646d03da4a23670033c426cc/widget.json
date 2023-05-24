@@ -76,7 +76,7 @@
                         },
                         "instanceid": "96262-6FB7-CC",
                         "jaql": {
-                            "bucket": "15",
+                            "bucket": "1",
                             "column": "sample_time",
                             "datatype": "datetime",
                             "dateTimeLevel": "minutes",
